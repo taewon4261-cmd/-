@@ -2,6 +2,9 @@ public class NewBehaviourScript : MonoBehaviour
 {
     void Start()
     {
+     
+        
+        
         string playerName = "옥서현";
         string monsterName = "이상선";
 
